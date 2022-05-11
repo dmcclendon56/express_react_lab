@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Penny Slots",
+      "live": "",
+      "git": "https://github.com/dmcclendon56/Project-1-Slot-Machine",
+      "image": "https://i.imgur.com/RB7fWlH.gif"
+    },
+    {
+      "name": "Chowtown",
+      "live": "https://secret-escarpment-10244.herokuapp.com/home",
+      "git": "https://github.com/pepermz/Project2-Earth-FoodWebsite",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    }
+  ]
